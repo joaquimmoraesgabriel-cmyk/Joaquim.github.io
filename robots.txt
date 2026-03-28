@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap:
+https://motoradar-brasil.com.br/sitemap.xml
